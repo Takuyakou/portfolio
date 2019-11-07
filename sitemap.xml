@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/</loc>
+    <loc>https://takuyakou.github.io/portfolio/posts/my-first-post/</loc>
     <lastmod>2019-11-07T22:44:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/my-first-post/</loc>
+    <loc>https://takuyakou.github.io/portfolio/</loc>
     <lastmod>2019-11-07T22:44:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/posts/</loc>
+    <loc>https://takuyakou.github.io/portfolio/posts/</loc>
     <lastmod>2019-11-07T22:44:41+09:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost:1313/categories/</loc>
+    <loc>https://takuyakou.github.io/portfolio/categories/</loc>
   </url>
   
   <url>
-    <loc>localhost:1313/tags/</loc>
+    <loc>https://takuyakou.github.io/portfolio/tags/</loc>
   </url>
   
 </urlset>
